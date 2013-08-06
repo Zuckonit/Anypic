@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class IdeaTest < ActiveSupport::TestCase
+class PieceTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end

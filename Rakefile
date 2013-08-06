@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Railsgirls::Application.load_tasks
+Whisper::Application.load_tasks

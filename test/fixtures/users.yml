@@ -2,10 +2,12 @@
 
 one:
   name: MyString
-  description: MyText
-  picture: MyString
+  email: MyString
+  password: MyString
+  type: 
 
 two:
   name: MyString
-  description: MyText
-  picture: MyString
+  email: MyString
+  password: MyString
+  type: 
